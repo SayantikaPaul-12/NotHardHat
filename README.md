@@ -1,3 +1,4 @@
+![NotHardHat](https://github.com/user-attachments/assets/beb86c57-4de9-4d54-bea0-40bd60b3bbbd)
 # NotHardHat
 
 ![Helmet and Vest Detection](assets/demo_image.jpg)  
