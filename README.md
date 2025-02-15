@@ -1,4 +1,4 @@
-![NotHardHat](https://github.com/user-attachments/assets/beb86c57-4de9-4d54-bea0-40bd60b3bbbd)
+
 # NotHardHat
 
 ![Helmet and Vest Detection](assets/demo_image.jpg)  
@@ -17,5 +17,6 @@ We used the [Hard Hat Workers Dataset](https://www.kaggle.com/datasets/muhammetz
 - **Libraries:** OpenCV, NumPy, Matplotlib
 
 
-![Model Architecture](https://drive.google.com/file/d/1WL6O12HZS7J22MozqA88Ro23jTlJEmC0/view?usp=drive_link)  
+![Model Architecture]
+![NotHardHat](https://github.com/user-attachments/assets/beb86c57-4de9-4d54-bea0-40bd60b3bbbd)
 *YOLOv11 Model Architecture for Safety Gear Detection.*
