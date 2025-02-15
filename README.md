@@ -19,3 +19,5 @@ We used the [Hard Hat Workers Dataset](https://www.kaggle.com/datasets/muhammetz
 ## Model Architecture
 ![NotHardHat](https://github.com/user-attachments/assets/beb86c57-4de9-4d54-bea0-40bd60b3bbbd)
 
+## 📽 Presentation
+You can view our project presentation [here](https://docs.google.com/presentation/d/1Oy-xLKRk34pYRC-mcaA3x2VjKPfU31MS4UnsnjsPcOs/edit#slide=id.gd251bb473_0_600).
