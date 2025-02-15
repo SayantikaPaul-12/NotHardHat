@@ -10,7 +10,7 @@ This project focuses on enhancing construction site safety by detecting helmets 
 We used the [Hard Hat Vest Dataset](https://www.kaggle.com/datasets/muhammetzahitaydn/hardhat-vest-dataset-v3) from Kaggle, which contains labeled images of construction workers wearing or missing safety gear.
 
 ## 🚀 Tech Stack
-- **Model:** YOLOv11
+- **Model:** YOLO
 - **Framework:** UltraLytics
 - **Dataset:** Hard Hat Vest Dataset (Kaggle)
 - **Libraries:** OpenCV, NumPy, Pandas, Opendatasets
