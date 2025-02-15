@@ -24,3 +24,7 @@ Check out our project in-making: [Construction Safety Gear Detection](https://co
 
 ## 📽 Presentation
 You can view our project presentation [here](https://docs.google.com/presentation/d/1Oy-xLKRk34pYRC-mcaA3x2VjKPfU31MS4UnsnjsPcOs/edit#slide=id.gd251bb473_0_600).
+
+## Output
+Here is a sample output of our classification model:![HAT_VEST Output](https://github.com/user-attachments/assets/ffcabee6-9633-4fcb-96a0-122cb232664e)
+
