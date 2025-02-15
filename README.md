@@ -27,6 +27,8 @@ You can view our project presentation [here](https://docs.google.com/presentatio
 
 ## Output
 Here is a sample output of our classification model:
-![HAT_VEST Output](https://github.com/user-attachments/assets/cd843286-d32c-4f3a-bdaf-0e03c7a62a7a)
+
+![HAT_VEST Output](https://github.com/user-attachments/assets/1170e201-cf00-4403-94a1-3af792f0291d)
+
 
 
