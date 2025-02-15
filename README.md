@@ -19,5 +19,8 @@ We used the [Hard Hat Vest Dataset](https://www.kaggle.com/datasets/muhammetzahi
 ## Model Architecture
 ![NotHardHat](https://github.com/user-attachments/assets/beb86c57-4de9-4d54-bea0-40bd60b3bbbd)
 
+## 🔗 Project Link
+Check out our project in-making: [Construction Safety Gear Detection](https://colab.research.google.com/drive/1LC3lw9jm_dnN7dOl0B1ANpI4jbAxj5RV?usp=sharing)
+
 ## 📽 Presentation
 You can view our project presentation [here](https://docs.google.com/presentation/d/1Oy-xLKRk34pYRC-mcaA3x2VjKPfU31MS4UnsnjsPcOs/edit#slide=id.gd251bb473_0_600).
