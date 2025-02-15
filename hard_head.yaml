@@ -1,0 +1,7 @@
+names:
+  0: helmet
+  1: vest
+  2: head
+  3: person
+train: /content/hardhat-vest-dataset-v3/images/test
+val: /content/hardhat-vest-dataset-v3/images/val
