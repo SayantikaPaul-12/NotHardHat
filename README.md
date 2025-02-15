@@ -26,9 +26,10 @@ Check out our project in-making: [Construction Safety Gear Detection](https://co
 You can view our project presentation [here](https://docs.google.com/presentation/d/1Oy-xLKRk34pYRC-mcaA3x2VjKPfU31MS4UnsnjsPcOs/edit#slide=id.gd251bb473_0_600).
 
 ## Output
-Here is a sample output of our classification model:
+Here are some sample output of our classification model which show the model can detect different kinds of hats and vests.
 
-![HAT_VEST Output](https://github.com/user-attachments/assets/1170e201-cf00-4403-94a1-3af792f0291d)          ![HAT_Vest 2(1)](https://github.com/user-attachments/assets/fa6ad14c-f710-4c29-a02a-32e786ed0287)            ![HV3](https://github.com/user-attachments/assets/f33c2ed1-a36b-4a0a-8592-3521ffb750a3)
+![HAT_VEST Output](https://github.com/user-attachments/assets/1170e201-cf00-4403-94a1-3af792f0291d)            ![HV4](https://github.com/user-attachments/assets/132e2afa-0015-4288-88f4-be1fab8808ea)
+          ![HAT_Vest 2(1)](https://github.com/user-attachments/assets/fa6ad14c-f710-4c29-a02a-32e786ed0287)            ![HV3](https://github.com/user-attachments/assets/f33c2ed1-a36b-4a0a-8592-3521ffb750a3)
 
 
 
