@@ -16,3 +16,5 @@ We used the [Hard Hat Workers Dataset](https://www.kaggle.com/datasets/muhammetz
 - **Libraries:** OpenCV, NumPy, Matplotlib
 
 
+![Model Architecture](https://drive.google.com/file/d/1WL6O12HZS7J22MozqA88Ro23jTlJEmC0/view?usp=drive_link)  
+*YOLOv11 Model Architecture for Safety Gear Detection.*
